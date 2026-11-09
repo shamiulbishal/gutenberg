@@ -118,6 +118,12 @@ function Root( {
 	// dismiss+reopen cycle is silently discarded.
 	const confirmIdRef = useRef( 0 );
 
+	useEffect( () => {
+		return () => {
+			confirmIdRef.current += 1;
+		};
+	}, [] );
+
 	const effectiveOpen = openProp ?? internalOpen;
 
 	// Safety net: if the consumer keeps `open={true}` after a confirm
