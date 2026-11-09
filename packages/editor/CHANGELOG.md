@@ -5,6 +5,7 @@
 ### Enhancements
 
 -   Notes: Add one note to several selected blocks, or to text selected across them ([#86051](https://github.com/WordPress/gutenberg/pull/86051)).
+-   Commands: Add an "Open revisions" command for the post being edited ([#86529](https://github.com/WordPress/gutenberg/pull/86529)).
 -   Style revisions: Compare the selected revision with the current version side by side, as a visual preview or as a code diff of the styles and settings, with a header naming each ([#85288](https://github.com/WordPress/gutenberg/pull/85288)).
 -   RTC: Add an optional outline around the blocks a collaborator is working in. Turn it on in Preferences > General > Interface > "Outline collaborators' blocks" ([#86272](https://github.com/WordPress/gutenberg/pull/86272)).
 
