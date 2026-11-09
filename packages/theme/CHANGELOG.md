@@ -4,7 +4,7 @@
 
 ### Bug Fixes
 
--   Generate correct JavaScript and SCSS fallbacks on the first build after adding or repointing token aliases.
+-   Generate correct JavaScript and SCSS fallbacks on the first build after adding or repointing token aliases ([#86547](https://github.com/WordPress/gutenberg/pull/86547)).
 
 ### Internal
 
