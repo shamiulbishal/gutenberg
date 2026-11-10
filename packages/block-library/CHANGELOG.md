@@ -4,6 +4,7 @@
 
 ### Enhancements
 
+-   Query Loop: Use the UI SelectControl for the Post type, Order by, and Sticky posts settings ([#86560](https://github.com/WordPress/gutenberg/pull/86560)).
 -   Categories List: Use the UI SelectControl for the Taxonomy setting ([#86197](https://github.com/WordPress/gutenberg/pull/86197)).
 
 ### Bug Fixes
