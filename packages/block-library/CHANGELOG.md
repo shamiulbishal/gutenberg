@@ -5,6 +5,7 @@
 ### Enhancements
 
 -   Categories List: Use the UI SelectControl for the Taxonomy setting ([#86197](https://github.com/WordPress/gutenberg/pull/86197)).
+-   Navigation: Add a "View revisions" button to the block's Advanced settings that opens the menu's revisions ([#86529](https://github.com/WordPress/gutenberg/pull/86529)).
 
 ### Bug Fixes
 
